@@ -54,3 +54,5 @@
 - numpy
 - seaborn
 - matplotlib
+
+## 8. Решение задач по SQL (папка SQL)
