@@ -14,9 +14,13 @@ WHERE status = 'closed'
 Решение:
 
 SELECT funding_total
+
 FROM company
+
 WHERE country_code = 'USA'
+  
   AND category_code = 'news'
+
 ORDER BY funding_total DESC
 
 3.	Найдите общую сумму сделок по покупке одних компаний другими в долларах. Отберите сделки, которые осуществлялись только за наличные с 2011 по 2013 год включительно.
