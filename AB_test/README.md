@@ -27,6 +27,6 @@
 
 ## Используемые библиотеки
 
-- **Pandas**
-- **Matplotlib**
-- **SciPy**
+- `Pandas`
+- `Matplotlib`
+- `SciPy`
